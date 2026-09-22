@@ -7,6 +7,7 @@ Gourmise uses published government and university extension guidance when a reli
 - [FoodSafety.gov safe minimum internal temperatures](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures)
 - [FoodSafety.gov meat and poultry roasting charts](https://www.foodsafety.gov/food-safety-charts/meat-poultry-charts)
 - [FoodSafety.gov cold food storage chart](https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts)
+- [FDA egg safety, including raw and undercooked recipes](https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety)
 - [FDA refrigerator and freezer storage chart](https://www.fda.gov/media/74435/download)
 - [USDA FSIS freezing and food safety](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/freezing-and-food-safety)
 
